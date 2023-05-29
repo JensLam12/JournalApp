@@ -45,5 +45,4 @@ export const AppRouter = () => {
     } else {
         return <RouterProvider router={routesConfig} />;
     }
-
 };
